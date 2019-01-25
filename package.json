@@ -1,18 +1,18 @@
 {
-  "name": "wprun-styles-plugin",
+  "name": "wprun-config-styles",
   "version": "0.1.0",
-  "description": "Styles plugin for wprun",
+  "description": "Styles config for wprun",
   "author": "Djalma Jr. <djalmajr@gmail.com>",
   "license": "UNLICENSED",
   "main": "index.js",
   "contributors": [],
-  "homepage": "https://github.com/djalmajr/wprun-styles-plugin/tree/master#readme",
+  "homepage": "https://github.com/djalmajr/wprun-config-styles/tree/master#readme",
   "bugs": {
-    "url": "https://github.com/djalmajr/wprun-styles-plugin/issues"
+    "url": "https://github.com/djalmajr/wprun-config-styles/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:djalmajr/wprun-styles-plugin.git"
+    "url": "git@github.com:djalmajr/wprun-config-styles.git"
   },
   "dependencies": {
     "autoprefixer": "^9.4.5",
